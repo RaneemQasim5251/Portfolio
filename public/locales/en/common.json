@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Raneem Althaqafi – Sovereign AI Portfolio",
+    "description": "Full-stack AI innovator blending technology with poetry. Explore my journey in AI, robotics, and creative computing."
+  },
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "chapters": "Chapters",
+    "playground": "Talk to Me",
+    "contact": "Contact"
+  },
+  "tagline": "Split the neuron and you'll find the rhythm",
+  "subtagline": "Here, modeling meets ART",
+  "buttons": {
+    "explore": "Explore",
+    "projects": "Projects",
+    "talk": "Talk to Me",
+    "send": "Send",
+    "record": "Voice Input",
+    "stop": "Stop Recording",
+    "listen": "Listen to Response",
+    "stop_audio": "Stop Audio",
+    "startRecording": "Start Voice Recording",
+    "stopRecording": "Stop Voice Recording"
+  },
+  "about": {
+    "story1": "In a computer lab in Taif, she was no ordinary child. There, Raneem discovered a new language – writing her first lines of code in C at a young age, opening her eyes to a world of possibilities.",
+    "story2": "The girl grew, carrying a metallic dream. With dedication, she built a robotic arm that mimicked human fingers, achieving second place in the global RoboFest championship. In every gear and wire, she saw creativity meet engineering.",
+    "story3": "Raneem didn't only write poetry on paper; she wrote it in machine languages as well. An Arabic poem in her heart finds its way into an algorithm; every function and program she wrote carries a hidden rhythm from her poetry."
+  },
+  "projects": {
+    "title": "Projects",
+    "layer1": "Infrastructure",
+    "layer2": "Data & Visualization",
+    "layer3": "AI Models",
+    "layer4": "Applications",
+    "milarity": {
+      "title": "MILARITY",
+      "desc": "A full-stack system for the Saudi Air Force, combining cloud engineering and AI analytics to deliver a sovereign, secure dashboard for air missions."
+    },
+    "nasa": {
+      "title": "NASA Space Challenge",
+      "desc": "First-place winning project in NASA's global space debris challenge, utilizing advanced technologies for tracking and analyzing space objects."
+    },
+    "aramco": {
+      "title": "Smart Helmet",
+      "desc": "Smart helmet system developed for Saudi Aramco, integrating advanced sensors with AI analytics to enhance worker safety."
+    },
+    "bci": {
+      "title": "Brain-Computer Interface",
+      "desc": "Advanced research in brain-computer interfaces, using neural signal processing and machine learning to understand and translate brain activity."
+    },
+    "liveness": {
+      "title": "Liveness Detection",
+      "desc": "Advanced liveness detection technology using rPPG, enabling user authentication through remote heart signal analysis."
+    },
+    "siraj": {
+      "title": "Siraj Assistant",
+      "desc": "Intelligent assistant for Riyadh Metro, using natural language processing and AI to help passengers with navigation and inquiries."
+    },
+    "poetry": {
+      "title": "Poetry & Art",
+      "desc": "Creative project transforming Arabic poetry into visual art using AI, combining literary heritage with modern technology."
+    },
+    "see_demo": "Try Demo"
+  },
+  "playground": {
+    "title": "Talk to Me & My Projects",
+    "comparison": {
+      "title": "Compare Chatbots",
+      "description": "Technical comparison of all chatbot systems"
+    },
+    "chat": {
+      "title": "Enhanced Chat",
+      "description": "Cloud GPT-4 with voice support",
+      "placeholder": "Ask anything about Raneem's experience and projects...",
+      "voice_input": "Speak your question",
+      "voice_output": "Listen to response",
+      "recording": "Recording...",
+      "processing": "Processing audio...",
+      "playing": "Playing..."
+    },
+    "hybrid-chat": {
+      "title": "Offline RAG",
+      "description": "Pure offline chatbot - works without internet"
+    },
+    "ollama-chat": {
+      "title": "Ollama Local",
+      "description": "Local AI with reasoning display"
+    },
+    "poetry": {
+      "title": "Poetry to Art",
+      "description": "Generate art from Arabic poetry",
+      "placeholder": "Enter an Arabic verse to generate art...",
+      "input_label": "Enter an Arabic verse to generate art...",
+      "sample": "Sample",
+      "generate": "Generate Art",
+      "generating": "Generating...",
+      "error": "Error generating art",
+      "generated_alt": "Generated art from poetry"
+    },
+    "bci": {
+      "title": "BCI Simulator",
+      "description": "Type with your thoughts using EEG",
+      "waiting": "Waiting for signal...",
+      "typing": "Typing...",
+      "start": "Start Typing with Thoughts",
+      "note": "Experimental simulator for brain-computer interface typing"
+    },
+    "liveness": {
+      "title": "Liveness Demo",
+      "description": "Face liveness detection system",
+      "start": "Start Scan",
+      "stop": "Stop Scan",
+      "detected": "✅ Live face detected",
+      "camera_error": "Camera access error",
+      "note": "Experimental liveness detection demo"
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "name": "Name",
+    "email": "Email",
+    "message": "Your Message",
+    "send": "Send",
+    "footer_note": "Ready to build true intelligence from the roots"
+  },
+  "chat": {
+    "ollamaTitle": "Ollama AI Assistant",
+    "checking": "Checking Ollama...",
+    "ready": "Ready",
+    "fallbackMode": "Fallback Mode",
+    "reasoning": "Reasoning",
+    "reasoningOn": "Reasoning Mode On",
+    "reasoningOff": "Reasoning Mode Off",
+    "clear": "Clear Chat",
+    "thinking": "Thinking...",
+    "placeholder": "Ask anything about Raneem...",
+    "connectedTo": "Connected to",
+    "usingFallback": "Using fallback processing",
+    "localMode": "Local Mode",
+    "error": "Sorry, I couldn't process your request."
+  }
+} 

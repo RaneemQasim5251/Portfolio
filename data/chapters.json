@@ -1,0 +1,138 @@
+{
+  "prologue": {
+    "titleEn": "Let's Rewind a Little…",
+    "titleAr": "لنعد قليلًا إلى الوراء",
+    "captionEn": "Let's rewind a little, returning to the origins of threads that formed my story—threads of art and logic, biology and computer science, woven gently together into a narrative I never expected to live.",
+    "captionAr": "دعونا نعد قليلاً إلى الوراء، إلى بدايةِ الخيوط التي نسجت حكايتي؛ خيوط من الفنّ، المنطق، الأحياء، وعلوم الحاسب، امتزجت معًا لتروي قصةً لم أكن أعلم يومًا أنني سأعيشها.",
+    "videoUrl": "/videos/prologue.gif"
+  },
+  "chapters": [
+    {
+      "id": "01",
+      "titleEn": "Geometry of Childhood",
+      "titleAr": "هندسة الطفولة",
+      "captionEn": "At seven, painting Islamic geometric patterns for the first time, I understood beauty as precise logic gracefully adorned with colors.",
+      "captionAr": "في طفولتي المبكرة، في السابعة من عمري، رسمتُ الزخارف الهندسية الإسلامية لأول مرة، وعرفتُ حينها أن الجمال ليس إلا منطقًا حاسوبيا دقيقًا يرتدي عباءة الإبداع.",
+      "videoUrl": "/videos/chapter-01.gif"
+    },
+    {
+      "id": "02",
+      "titleEn": "Doors to Curiosity",
+      "titleAr": "أبوابٌ الفضول",
+      "captionEn": "At ten, my brother and I built a motorized gift box from old wardrobe doors. That day, for the first time, curiosity burned within me—an urge to discover how things truly worked.",
+      "captionAr": "في العاشرة من عمري، حولتُ مع أخي أبواب خزانة مهملة إلى صندوق هدايا متحرك لوالدينا، وفي ذلك اليوم شعرت للمرة الأولى برغبةٍ عارمة في اكتشاف كيف تعمل الأشياء.",
+      "videoUrl": "/videos/chapter-02.gif"
+    },
+    {
+      "id": "03",
+      "titleEn": "Helicopter Dreams",
+      "titleAr": "حلم المروحية الصغيرة",
+      "captionEn": "Later, curiosity turned into a small helicopter crafted from toy motors, C# Programming, and cardboard rotors. It flew only seconds, yet planted in my heart a lasting promise: dreams can become tangible realities.",
+      "captionAr": "لاحقاً، تطور ذلك الفضول وصنعنا معا طائرة صغيرة من محركات ألعاب قديمة وأجنحة من الكرتون، وقليل من برمجة C#، حلّقت لثوانٍ معدودة فقط، لكنها زرعت في قلبي وعدًا بتحويل أحلامي إلى واقعٍ ملموس.",
+      "videoUrl": "/videos/chapter-03.gif"
+    },
+    {
+      "id": "04",
+      "titleEn": "A Screen's Whisper",
+      "titleAr": "همسات الشاشة",
+      "captionEn": "Stepping into the school computer lab for the first time, a dim green screen flickered gently, whispering to me in a language I somehow already understood.",
+      "captionAr": "عندما تسللت لمختبر الحاسب في المدرسة الابتدائية لأول مرة، كانت الشاشة تومض بضوء أخضر خافت، فأدركت أن هذا الصندوق يخاطبني بلغةٍ لن يفهمها غيرنا.",
+      "videoUrl": "/videos/chapter-04.gif"
+    },
+    {
+      "id": "05",
+      "titleEn": "Sketches of Robots",
+      "titleAr": "دفاتر عمري ابتدأت",
+      "captionEn": "My notebooks soon overflowed with sketches of robots, circuits, and mathematical waves. Those pages became my private world, where daily I encountered art and science intertwined.",
+      "captionAr": "أصبحت دفاتري تمتلئ برسوماتٍ لروبوتاتٍ ودوائر كهربائية ومعادلات رياضية؛ كانت تلك الأوراق عالمي الخاص، حيث كنتُ ألتقي بالعلم والفن كل يوم بعد المدرسة.",
+      "videoUrl": "/videos/chapter-05.gif"
+    },
+    {
+      "id": "06",
+      "titleEn": "Smart Desk Triumph",
+      "titleAr": "الطاولة الذكية",
+      "captionEn": "In middle school, classmates and I built a \"Smart Learning Desk.\" Winning the Mawhiba prize taught me that innovation knows no age.",
+      "captionAr": "في المرحلة المتوسطة صنعتُ \"الطاولة الذكية\"، فاز المشروع بجائزة \"إبداع\"، واكتشفت حينها أن الأفكار المبتكرة لا تعرف قيود العمر.",
+      "videoUrl": "/videos/chapter-06.gif"
+    },
+    {
+      "id": "07",
+      "titleEn": "Silver Reflections",
+      "titleAr": "البحث العلمي",
+      "captionEn": "In high school, holding a silver medal in national scientific research, I realized behind the young artist stood an emerging scientist whose features became clearer by the day.",
+      "captionAr": "في الثانوية، وقفت على المسرح أحمل ميداليةً فضية في البحث العلمي على مستوى المملكة، وأدركتُ أن وراء الفنانة الصغيرة عالمةً بدأت تنضج وتتضح ملامحها.",
+      "videoUrl": "/videos/chapter-07.gif"
+    },
+    {
+      "id": "08",
+      "titleEn": "Dialogue on Stage",
+      "titleAr": "تحدي القراءة العربي",
+      "captionEn": "On stage at the Arab Reading Challenge, standing before judges surrounded by stacks of books and an attentive crowd, I realized words held a power as profound as deeds.",
+      "captionAr": "خلال تحدي القراءة العربي، وقفتُ على المسرح أمام لجنة التحكيم، محاطة بأكوام من الكتب وجمهور يصغي بعمق، وعرفتُ حينها أنّ للكلمات قوةً كقوة الأفعال.",
+      "videoUrl": "/videos/chapter-08.gif"
+    },
+    {
+      "id": "09",
+      "titleEn": "The Unexpected Storm",
+      "titleAr": "العاصفة المفاجئة",
+      "captionEn": "Yet one ordinary school day, my life turned upside down—dizziness overwhelmed me, my limbs trembled inexplicably. Doctors found no answers. From then onward, a deep fascination with the brain's mysteries took root in me.",
+      "captionAr": "لكن في يوم عادي بالمدرسة، انقلبت حياتي فجأةً حين شعرتُ بدوارٍ غريب وبدأت أطرافي ترتجف، تتشنج؛ لم يعلم الأطباء تفسيراً لما حدث، ومن ذلك اليوم نبت في داخلي اهتمامٌ عميق بأسرار الخلايا العصبية.",
+      "videoUrl": "/videos/chapter-09.gif"
+    },
+    {
+      "id": "10",
+      "titleEn": "Bridges of Understanding",
+      "titleAr": "جسر العلم",
+      "captionEn": "With time, neuroscience bridged the gap between that strange incident and my love for computer science. My mind began seeing the brain as a neural network, thoughts as electric signals.",
+      "captionAr": "مع الوقت، أصبح علم الأعصاب همزة الوصل بين ما حدث معي وبين اهتمامي بعلوم الحاسب؛ بات عقلي يرى الدماغ شبكة عصبية، والأفكارُ إشارات كهربائية.",
+      "videoUrl": "/videos/chapter-10.gif"
+    },
+    {
+      "id": "11",
+      "titleEn": "Falling for AI",
+      "titleAr": "الذكاء الاصطناعي",
+      "captionEn": "Discovering artificial intelligence at university felt like destiny—combining logic, art, and biology, it seemed every life step had guided me to this moment.",
+      "captionAr": "عندما تعرّفت على مجال الذكاء الاصطناعي في الجامعة، وجدت فيه ضالتي؛ فهو يجمع كل ما أحبّ: المنطق، والفن، وعالم الأحياء، وكأن كل مراحل حياتي قادتني إليه.",
+      "videoUrl": "/videos/chapter-11.gif"
+    },
+    {
+      "id": "12",
+      "titleEn": "The Butterfly's Bit",
+      "titleAr": "أثر الفراشة",
+      "captionEn": "Exploring artificial neural networks taught me that a single tiny bit, like a butterfly's wingbeat, could alter entire systems—its profound beauty struck me deeply.",
+      "captionAr": "في عالم الشبكات العصبية الاصطناعية، تعلّمت أن تغييرا صغيرًا واحدًا يشبه رفرفة جناح فراشة، قادر على تغيير نظامٍ بأكمله، وأدركت عمق هذه الفكرة وقوتها.",
+      "videoUrl": "/videos/chapter-12.gif"
+    },
+    {
+      "id": "13",
+      "titleEn": "The Robotic Reflection",
+      "titleAr": "الذراع الروبوتية",
+      "captionEn": "I built a robotic arm controlled by my brain. Seeing it tremble just as my own hands once did, I felt I had finally translated personal pain into creativity.",
+      "captionAr": "صنعت ذراعًا روبوتية تتحرك بأوامر من إشارات الدماغ والحاسوب، وعندما رأيتها تتشنج تمامًا كما فعلت يدي يوم مرضي، شعرتُ بأنني حولتٌ آلامي إلى إبداع هندسي بنجاح.",
+      "videoUrl": "/videos/chapter-13.gif"
+    },
+    {
+      "id": "14",
+      "titleEn": "The Mosaic of Numbers",
+      "titleAr": "علم البيانات",
+      "captionEn": "Diving into data science, each time I traced patterns between numbers, I felt as if rearranging tiny stones to build beautiful mosaics—like returning to childhood drawings again.",
+      "captionAr": "غصتُ في بحور علوم البيانات، وكلما تتبعت الأنماط بين الأرقام، أعادتني الذاكرة للزخارف الهندسية بالطفولة؛ لكنها هذه المرّة تشكلت على هيئة بيانات.",
+      "videoUrl": "/videos/chapter-14.gif"
+    },
+    {
+      "id": "15",
+      "titleEn": "Heartbeat of Innovation (To Be Continued)",
+      "titleAr": "نبض الابتكار (وللقصة بقية)",
+      "captionEn": "At university, I crafted an intelligent model extracting facial pulses to detect fraud. This isn't an ending but rather the beginning of another story awaiting my pen.",
+      "captionAr": "وأخيراً في مختبر الجامعة، ابتكرنا نموذجًا ذكيًا يستخرج نبضات القلب في الوجه عن طريق دمج خوارزمية طبية داخل نموذج ذكاء اصطناعي من فيديو فقط، لكشف الاحتيال بالأقنعة ثلاثية الأبعاد؛ وهذه ليست النهاية، بل بداية حكاية جديدة تنتظرني.",
+      "videoUrl": "/videos/chapter-15.gif"
+    }
+  ],
+  "epilogue": {
+    "titleEn": "The Thread Continues",
+    "titleAr": "خيطٌ لا ينتهي",
+    "captionEn": "My story continues; each chapter a thread in an unfinished tapestry, and still, I weave today's dreams into a future whose creativity knows no bounds.",
+    "captionAr": "لا تزال حكايتي مستمرة، كل فصلٍ من فصول حياتي خيطٌ في نسيجٍ لم يكتمل، وما زلتُ أنسج من الحاضر حلمًا لمستقبلٍ لا حدود لإبداعه.",
+    "videoUrl": "/videos/epilogue.gif"
+  }
+} 
